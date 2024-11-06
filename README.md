@@ -10,6 +10,6 @@
 
 3. In new terminal type 
 
-    telnet 127.0.0.1 12345
+    telnet 127.0.0.1 8080
 
 4. To test type a message then enter in telnet
